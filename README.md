@@ -1,5 +1,9 @@
 # chatto (Railway image)
 
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/deploy/chatto?referralCode=Z1xivh&utm_medium=integration&utm_source=template&utm_campaign=generic)
+
+**Deploy on Railway:** [chatto template](https://railway.com/deploy/chatto?referralCode=Z1xivh&utm_medium=integration&utm_source=template&utm_campaign=generic)
+
 Railway-tuned wrapper around [`ghcr.io/chattocorp/chatto`](https://github.com/chattocorp/chatto)
 (self-hostable team chat, AGPL-3.0). Published as `ghcr.io/bon5co/chatto:latest` and used by the
 Railway one-click template.
